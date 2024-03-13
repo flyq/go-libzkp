@@ -1,0 +1,5 @@
+target/
+*.a
+*.so
+*.dylib
+go-libzkp
